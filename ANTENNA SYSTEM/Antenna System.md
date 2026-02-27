@@ -120,10 +120,13 @@ It is a Simple Dipole λ/2 Antenna is the foundational standard for radio commun
 
 It is a Simple Dipole Antenna specifically tuned as a quarter-wave (λ/4) resonator. Unlike a standard half-wave (λ/2) dipole, each arm of this antenna is approximately one-quarter of the target wavelength. Additionally, Because it is a shorter antenna, it often requires a ground plane to help it resonate efficiently.
 
+### 16. SIMPLE DIPOLE 3/2λ ANTENNA
 
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/96b638db-7cfb-4a80-a8b0-8bd953bc820f" />
 
+The Simple Dipole 3/2λ is a long-wire variation of the classic dipole. While the λ/2 dipole is the most common, the 3/2λ offers unique characteristics. Because the physical structure is larger, it can capture more electromagnetic energy, providing higher gain in its primary lobes compared to a standard dipole.
 
-### 16. FOLDED DIPOLE λ/2 ANTENNA
+### 17. FOLDED DIPOLE λ/2 ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/90c7aa43-177e-4365-8984-2e94bc6e2c8e" />
 
