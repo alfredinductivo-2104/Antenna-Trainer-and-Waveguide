@@ -171,6 +171,14 @@ The Zeppline Antenna was a historical design antenna originally used on early 20
 
 In the experiment, using the Antenna Trainer we set-up the Transmitter and Receiver end with a not so far distance with one another. Setup was shown in the figure's below.
 
+- Transmitter Setup
+  
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e5ba0eeb-e69f-4bee-86cb-91e23880358a" />
+
+- Receiver Setup
+  
+  <img width="500" height="6000" alt="image" src="https://github.com/user-attachments/assets/5a22a1fe-a1ac-4b8a-b279-48589ba82fad" />
+
 ### 2. Testing different types of Antenna and the Output. 
 
 After the transmitter and receiver part was setup, we test different types of antenna inserted to both ends that will effectively transmit the generated signal with more than 1A of Current receive by the receiver. After, finding the appropriate antenna to be used for our communication system. The following output waveform and output current was gathered. 
