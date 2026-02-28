@@ -70,25 +70,31 @@ The YAGI-UDA Antenna is considered as the most recognizable and widely used dire
 
 Even though this type of Antenna shares he same DNA as the YAGI-UDA SIMPLE 5 ELEMENTS Antenna. This antenna features two key changes which are the folded driven element and a more compact 3-element configuration. The folded driven element increases the impedance that helps to makes impedance matching much easier to do with certain types of transmission lines. Additionally, With only three elements—one Reflector, one Folded Driven Element, and one Director. This antenna is smaller and lighter than the 5-element version.
 
-### 8. YAGI-UDA SIMPLE 7 ELEMENTS ANTENNA
+### 8. YAGI-UDA FOLDED DIPOLE 5 ELEMENT 
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/773b2c3e-df04-44c6-a99b-b1c454c97c29" />
+
+Compare to the other YAGI-UDA Folded dipole with less than 5 element. Having a much higher number of element increases the directivity and efficient power transfer. Because it has five elements total, it offers a much stronger reach (gain) than the 3-element version, while the folded loop makes it easier to match with common transmission lines without losing signal quality.
+
+### 9. YAGI-UDA SIMPLE 7 ELEMENTS ANTENNA
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/cd369f74-73bb-4cdf-9cfb-1263ebb89f68" />
 
 Compare to the previous YAGI-UDA Antenna with less than 7 element, this type of YAGI Antenna is the most directional antenna.  With seven total elements—one reflector, one driven element, and five directors—this antenna has significantly more "reach" and can pick up much weaker signals than the 3 or 5-element versions.
 
-### 9. PHASE ARRAY λ/2 ANTENNA
+### 10. PHASE ARRAY λ/2 ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/45eb14f9-a627-4816-b358-332ac0786a92" />
 
 A phased array is a collection of multiple antenna elements where the relative phases of the signals feeding the elements are varied. This allows the antenna's radiation pattern to be steered electronically without moving the physical structure. The λ/2 (half-wavelength) label indicates that the elements are spaced or sized exactly at half the wavelength of the target frequency. This specific spacing is critical to ensure that the signals from each element interfere constructively in the desired direction and destructively in others.
 
-### 10. PHASE ARRAY λ/4 ANTENNA
+### 11. PHASE ARRAY λ/4 ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/70d8fa0c-2114-44b1-b2bf-0fff51749682" />
 
 The Phase Array λ/4 ANTENNA  is a variation of the phased array family, specifically tuned using quarter-wavelength λ/4 elements or spacing .By using λ/4 (quarter-wave) segments instead of λ/2 (half-wave), the physical profile of the antenna elements is halved. This is often done to save space in compact electronic devices.
 
-### 11. ANTENNA KIT A and B
+### 12. ANTENNA KIT A and B
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/af7bd6da-f50f-45da-8371-50b5bd721ef1" />
 
@@ -96,42 +102,66 @@ The Phase Array λ/4 ANTENNA  is a variation of the phased array family, specifi
 
 This is a primary mounting block or feed-point housing used across this modular educational kit. It is designed for laboratory environments to allow students to quickly swap out different antenna configurations
 
-### 12. BROAD SIDE ARRAY ANTENNA
+### 13. BROAD SIDE ARRAY ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/2f62d609-7612-4d1d-a71c-56a02ca92a3d" />
 
 The Broad Side Array Antenna is a type of antenna array where the direction of maximum radiation is perpendicular to the axis of the array. Unlike the Yagi antennas, which shoot the signal out of the front, this array radiates power primarily in two directions which are directly away from the flat sides of the board. This type of antenna provides a very narrow beam in the broadside direction, making it highly effective for certain types of long-range broadcasting.
 
-### 13. SIMPLE DIPOLE ANTENNA
+### 14. COMBINED COLLINEAR ARRAY ANTENNA
+
+<img width="500" height="1152" alt="image" src="https://github.com/user-attachments/assets/584fe082-bd9d-4134-878a-908947b7e2d4" />
+
+A Collinear array antenna consists of two or more dipole antennas mounted end-to-end (in a straight line) and fed in-phase.The combined nature of the array allows it to provide significantly higher gain than a single dipole without becoming highly directional like a Yagi. Additionally, this type of antennas was  used for base stations, such as those for police/fire radio, emergency services, and cellular towers, because they provide a powerful signal in every direction simultaneously.
+
+
+### 15. SIMPLE DIPOLE ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/70d8fa0c-2114-44b1-b2bf-0fff51749682" />
 
 The Simple Dipole Antenna is the most basic form of an antenna, consisting of two conductive rods of equal length. This is a half-wave dipole, which means that the total length of the two rods combined is approximately half the wavelength of the radio frequency it is designed to transmit or receive signals.
 
-### 14. SIMPLE DIPOLE λ/2 ANTENNA
+### 16. SIMPLE DIPOLE λ/2 ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/826886f5-0367-46e1-94f4-4c3bbc6a5010" />
 
 It is a Simple Dipole λ/2 Antenna is the foundational standard for radio communication. It consists of two straight conductive rods of equal length, totaling approximately half the wavelength (λ/2) of its target frequency.
 
-### 15. SIMPLE DIPOLE λ/4 ANTENNA
+### 17. SIMPLE DIPOLE λ/4 ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/96b638db-7cfb-4a80-a8b0-8bd953bc820f" />
 
 It is a Simple Dipole Antenna specifically tuned as a quarter-wave (λ/4) resonator. Unlike a standard half-wave (λ/2) dipole, each arm of this antenna is approximately one-quarter of the target wavelength. Additionally, Because it is a shorter antenna, it often requires a ground plane to help it resonate efficiently.
 
-### 16. SIMPLE DIPOLE 3/2λ ANTENNA
+### 18. SIMPLE DIPOLE 3/2λ ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/96b638db-7cfb-4a80-a8b0-8bd953bc820f" />
 
 The Simple Dipole 3/2λ is a long-wire variation of the classic dipole. While the λ/2 dipole is the most common, the 3/2λ offers unique characteristics. Because the physical structure is larger, it can capture more electromagnetic energy, providing higher gain in its primary lobes compared to a standard dipole.
 
-### 17. FOLDED DIPOLE λ/2 ANTENNA
+### 19. FOLDED DIPOLE λ/2 ANTENNA
 
 <img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/90c7aa43-177e-4365-8984-2e94bc6e2c8e" />
 
 This is the pure version of the folded driven element found in the YAGI-UDA folded dipole 3 element ANTENNA, but without the extra directors or reflectors. Without reflectors or directors to "push" the signal, this antenna radiates in a doughnut shape around the rod. Being a half-wave dipole, it is "resonant," which means that it is electrically tuned to be most efficient at a specific frequency.
 
+### 20. GROUND PLANE
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/7d1bc1ed-9acf-4913-861a-16d78c740c1a" />
+
+A Ground Plane is a flat or nearly flat conducting surface that serves as a reflecting surface for radio waves. When a vertical antenna is mounted over this board, the conductive surface acts like a mirror that reflects the radio waves.
+
+### 21. SLOT ANTENNA
+
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/d885bebf-d7b5-4cd6-9b99-c29290722a87" />
+
+A Slot antenna is an antenna that consists of a flat conductive surface with a narrow rectangular hole (slot) cut out of it. In this type of antenna, instead of current flowing through a wire, the radio frequency energy is applied across the slot. This creates an electromagnetic field that radiates out from the opening.
+
+### 22. ZEPPLINE ANTENNA
+
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/b7557f72-f39d-4258-a574-c2202cbfa43f" />
+
+The Zeppline Antenna was a historical design antenna originally used on early 20th-century airships (Zeppelins). The Zeppline antenna is a highly valued by amateur radio operators for its simplicity and ability to be suspended between two points without needing a heavy center feed point.
 
 
 
