@@ -159,39 +159,41 @@ A Slot antenna is an antenna that consists of a flat conductive surface with a n
 
 ### 22. ZEPPLINE ANTENNA
 
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/b7557f72-f39d-4258-a574-c2202cbfa43f" />
+<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/b7557f72-f39d-4258-a574-c2202cbfa43f" />
 
 The Zeppline Antenna was a historical design antenna originally used on early 20th-century airships (Zeppelins). The Zeppline antenna is a highly valued by amateur radio operators for its simplicity and ability to be suspended between two points without needing a heavy center feed point.
-
-
-
-
-
-
-
-
-
 
 ---
 
 ## SUMMARY OF FINDINGS AND RESULTS:
 
-### 1. Sampling a Simple Message
+### 1. Setting up the Transmitter and Receiver
 
+In the experiment, using the Antenna Trainer we set-up the Transmitter and Receiver end with a not so far distance with one another. Setup was shown in the figure's below.
 
-### 2. Sampling Speech
+### 2. Testing different types of Antenna and the Output. 
 
+After the transmitter and receiver part was setup, we test different types of antenna inserted to both ends that will effectively transmit the generated signal with more than 1A of Current receive by the receiver. After, finding the appropriate antenna to be used for our communication system. The following output waveform and output current was gathered. 
 
+https://github.com/user-attachments/assets/b79cf946-b666-4fd3-8c44-efb3d5cabdcf
+
+https://github.com/user-attachments/assets/19675beb-92eb-4d58-aeba-42cefcff5bfd
+
+### 3. Observations
+
+Since the setup was only a simple communication system, it was observed during the experiment that the transmitted signal strength was not very high and was not well modulated. Additionally, the setup was very sensitive because the two antennas had to be properly aligned with each other in order to successfully transmit and receive the signal. There also had to be no obstructions present between the transmitter and the receiver.
+
+In the next part of the experiment, a magnet was placed between the transmitter and the receiver. It was observed that the presence of the magnet caused a decrease in the received signal strength. The signal became weaker and less stable compared to the previous setup without any object in between. This indicates that introducing materials between the transmitting and receiving antennas can affect signal propagation, possibly due to interference or partial obstruction of the electromagnetic waves.
 
 ---
 
 ## CONCLUSIONS:
-After analyzing the gathered data and observations about Sampling and Reconstruction of a signal, the following conclusions have been made:
-- Digital transmission requires analog signals to be converted into discrete samples for effective processing and transmission.
-- Sampling a signal using the ETT-101 Dual Analog Switch Module successfully captures discrete values of the original message signal.
-- Natural sampling was observed, as the signal’s voltage returns to zero between samples, and sample amplitudes vary with the original signal.
-- The sample-and-hold scheme was demonstrated, with each sample holding a constant voltage during the sampling interval and no gaps between samples.
-- Signal reconstruction using a low-pass filter restores the sampled signal to closely resemble the original, with the proper adjustments to gain and cut-off frequency improving fidelity.
-- Aliasing occurs when the sampling frequency is too low, highlighting the importance of adhering to the Nyquist criterion.
-
+After analyzing the different types of antenna and the simple transmission experiment, the following conclusions have been made:
+- The experiment demonstrated that antennas serve as essential transducers that convert electrical signals into electromagnetic waves for transmission and reconvert them into electrical signals for reception.
+- The different types of antennas exhibit different radiation patterns, gains, directivity, and impedance characteristics, which significantly affect signal strength and communication performance.
+- Directional antennas such as Yagi-Uda arrays provide higher gain and better signal focusing compared to simple dipole antennas. Additionally, Increasing the number of elements in array antennas improves directivity and effective signal reach.
+- Proper alignment between the transmitting and receiving antennas is critical for achieving stronger and more stable signal reception.
+- The simple communication setup produced a relatively low signal strength, indicating limitations in power, modulation quality, and system efficiency.
+- The presence of physical objects (such as a magnet) between the transmitter and receiver reduced the received signal strength, showing that obstructions and nearby materials can affect electromagnetic wave propagation.
+- The experiment enhanced understanding of antenna resonance, wavelength relationships (λ/4, λ/2, 3/2λ), and the importance of impedance matching in efficient power transfer
 
