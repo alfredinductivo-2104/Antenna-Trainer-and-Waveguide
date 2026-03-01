@@ -10,6 +10,6 @@ Through hands-on analysis using antenna trainers and various waveguide component
 
 ---
 
-TABLE OF CONTENTS:
+## TABLE OF CONTENTS:
 1. EXPERIMENT 3: ANTENNA SYSTEM
 2. EXPERIMENT 4: WAVEGUIDE
